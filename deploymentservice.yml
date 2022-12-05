@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: nodeserver
-        image: thetips4you/nodeapp:latest
+        image: guruuclouddemo1/node1:first
         ports:
         - containerPort: 3000
         
